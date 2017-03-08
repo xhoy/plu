@@ -67,7 +67,7 @@ bundle
 
 ## Resources
 
-- [IFPS 2012 Users Guide](http://www.plucodes.com/docs/Users_Guide_July_2012_FINAL.pdf)
+- [IFPS 2016 Users Guide](http://www.ifpsglobal.com/Portals/22/IFPS%20Documents/PLU%20User%20guides/PLU%20Users%20Guide%20sept%202016.pdf)
 
 ## Contributing
 
